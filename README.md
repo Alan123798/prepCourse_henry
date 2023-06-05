@@ -1,2 +1,1 @@
-# prepCourse_henry
-un nuevo repository para el prep course
+este es una prueba de como crear un repositorio y conarlo en git hub
